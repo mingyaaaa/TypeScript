@@ -1,6 +1,6 @@
 # TypeScript Handbook（中文版）
 
-[TypeScript 2.6 正式发布!](https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/)
+<img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 2.7 (January 31, 2018)](https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7/)
 
 > 从前打心眼儿里讨厌编译成JavaScript的这类语言，像Coffee，Dart等。
 > 但是在15年春节前后却爱上了TypeScript。
@@ -79,6 +79,7 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
   * [架构概述](./doc/wiki/Architectural-Overview.html)
   * [发展路线图](./doc/wiki/Roadmap.html)
 * [新增功能](./doc/release-notes/README.html)
+  * [TypeScript 2.7](./doc/release-notes/TypeScript 2.7.html)
   * [TypeScript 2.6](./doc/release-notes/TypeScript 2.6.html)
   * [TypeScript 2.5](./doc/release-notes/TypeScript 2.5.html)
   * [TypeScript 2.4](./doc/release-notes/TypeScript 2.4.html)
